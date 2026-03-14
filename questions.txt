@@ -3,23 +3,23 @@ Easy (10)
 
 Focus: syntax, pointers, memory basics
 
-Swap two numbers using pointers.
+Swap two numbers using pointers. ✅ 
 
-Reverse an array without using another array.
+Reverse an array without using another array. ✅ 
 
 Count vowels, consonants, digits, and spaces in a string.
 
-Write your own implementation of strlen().
+Write your own implementation of strlen().✅ 
 
 Write your own implementation of strcpy().
 
-Find the largest and smallest element in an array.
+Find the largest and smallest element in an array.✅ 
 
 Reverse a string in place.
 
 Count occurrences of a character in a string.
 
-Dynamically allocate an array using malloc() and compute the sum.
+Dynamically allocate an array using malloc() and compute the sum. ✅ 
 
 Print the addresses of variables and explain stack memory layout.
 
