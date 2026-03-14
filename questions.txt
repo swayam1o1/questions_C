@@ -11,7 +11,7 @@ Count vowels, consonants, digits, and spaces in a string.
 
 Write your own implementation of strlen().✅ 
 
-Write your own implementation of strcpy().
+Write your own implementation of strcpy().✅ 
 
 Find the largest and smallest element in an array.✅ 
 
