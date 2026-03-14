@@ -1,0 +1,175 @@
+C Programming
+Easy (10)
+
+Focus: syntax, pointers, memory basics
+
+Swap two numbers using pointers.
+
+Reverse an array without using another array.
+
+Count vowels, consonants, digits, and spaces in a string.
+
+Write your own implementation of strlen().
+
+Write your own implementation of strcpy().
+
+Find the largest and smallest element in an array.
+
+Reverse a string in place.
+
+Count occurrences of a character in a string.
+
+Dynamically allocate an array using malloc() and compute the sum.
+
+Print the addresses of variables and explain stack memory layout.
+
+Medium (10)
+
+Focus: pointers, recursion, memory, structs
+
+Implement factorial using recursion.
+
+Implement Fibonacci (recursive + iterative).
+
+Reverse a string using pointer arithmetic only.
+
+Implement your own strcmp().
+
+Write a program to merge two sorted arrays.
+
+Write a program to remove duplicate characters from a string.
+
+Implement a structure for a student record and sort records by marks.
+
+Create a program to allocate a 2D array dynamically.
+
+Write a program to find the second largest element in an array.
+
+Write a program to rotate an array by k positions.
+
+Hard (10)
+
+Focus: deep pointer logic, memory, systems thinking
+
+Implement memcpy() from scratch.
+
+Implement strstr() (find substring in string).
+
+Write a program to check if two strings are anagrams.
+
+Implement a dynamic array (vector) using malloc and realloc.
+
+Write a program to detect memory leaks in a sample program.
+
+Implement a simple memory allocator using a large array.
+
+Write a program that prints stack, heap, and global variable addresses.
+
+Implement bit manipulation utilities (set, clear, toggle bits).
+
+Write a program to evaluate postfix expressions.
+
+Write a program that simulates a basic shell command parser.
+
+Data Structures
+Easy (10)
+
+Focus: fundamentals
+
+Implement a stack using an array.
+
+Implement a queue using an array.
+
+Create a singly linked list and print its elements.
+
+Insert a node at the beginning of a linked list.
+
+Insert a node at the end of a linked list.
+
+Delete a node from a linked list.
+
+Search an element in a linked list.
+
+Reverse a linked list.
+
+Find the length of a linked list.
+
+Implement binary search on a sorted array.
+
+Medium (10)
+
+Focus: pointer-heavy structures
+
+Implement a stack using a linked list.
+
+Implement a queue using a linked list.
+
+Detect a cycle in a linked list (Floyd algorithm).
+
+Find the middle element of a linked list.
+
+Merge two sorted linked lists.
+
+Implement a circular queue.
+
+Implement selection sort on a linked list.
+
+Implement a binary search tree (BST) with insert operation.
+
+Implement inorder traversal of BST.
+
+Find the height of a binary tree.
+
+Hard (10)
+
+Focus: algorithms + systems thinking
+
+Implement LRU cache using hash map + doubly linked list.
+
+Implement a hash table with collision handling.
+
+Implement AVL tree insertion with rotations.
+
+Implement topological sort using DFS.
+
+Implement Dijkstra’s shortest path algorithm.
+
+Implement heap (min heap) with insert and delete.
+
+Find intersection of two linked lists.
+
+Implement trie for string storage.
+
+Detect strongly connected components in a graph.
+
+Implement thread-safe queue using mutex.
+
+The Most Important Problems From This List
+
+If you only do 10–12, choose these:
+
+C
+
+strlen
+
+strcpy
+
+reverse string with pointers
+
+dynamic memory allocation
+
+bit manipulation
+
+Data Structures
+
+linked list insert/delete
+
+reverse linked list
+
+stack implementation
+
+queue implementation
+
+BST traversal
+
+These cover most interview concepts.
